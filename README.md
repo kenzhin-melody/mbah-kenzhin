@@ -10,6 +10,6 @@ pkg install git
 
 git clone https://github.com/BangOzil/Ozil
 
-cd ozil
+cd Ozil
 
 php bangozil.php
