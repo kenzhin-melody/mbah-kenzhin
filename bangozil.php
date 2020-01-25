@@ -6,8 +6,8 @@ echo color("red"," BACA BISMILLAH SEBELUM MEMULAI AKTIFITAS \n");
 echo color("green"," 🄰🅄🅃🄾 🅁🄴🄶🄸🅂🅃 🄶🄾🄹🄴🄺 &  🅁🄴🄳🄴🄴🄼 🅅🄾🅄🄲🄷🄴🅁 \n");
 echo color("green"," =================================== \n");
 echo " Author     : 🇧 🇦 🇳 🇬  🇴 🇿 🇮 🇱  \n";
-echo " Time       : ".date('d-m-Y||H:i:s')." \n";
-echo color("green"," =================================== \n");
+echo " TIME       : ".date('d-m-Y||H:i:s')." \n";
+echo color("red"," BACA HAMDALLAH SETELAH SELESAI AKTIFITAS \n");cho color("green"," =================================== \n");
 
 //	function change(){
         $nama = nama();
