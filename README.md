@@ -12,4 +12,4 @@ git clone https://github.com/BangOzil/Ozil
 
 cd Ozil
 
-php redeem.php
+php shot.php
