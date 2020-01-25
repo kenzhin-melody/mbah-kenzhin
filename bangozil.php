@@ -3,10 +3,9 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
 echo color("green"," Claim Voucher \n");
-echo color("green"," Auto Create & Redeem Voucher \n");
+echo color("green"," 🅐🅤🅣🅞 🅒🅡🅔🅐🅣🅔 & 🅡🅔🅓🅔🅔🅜 🅥🅞🅤🅒🅗🅔🅡 \n");
 echo color("green"," =================================== \n");
-echo " Created by : BANG OZIL \n";
-echo " Version    : TAHUN 2020 \n";
+echo " Author     : 🇧 🇦 🇳 🇬  🇴 🇿 🇮 🇱  \n";
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
 
