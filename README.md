@@ -10,5 +10,6 @@ pkg install git
 
 git clone https://github.com/BangOzil/Ozil
 
-cd gjk
-php shot.php
+cd Ozil
+
+php redeem.php
