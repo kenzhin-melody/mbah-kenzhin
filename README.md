@@ -10,6 +10,6 @@ pkg install git
 
 git clone https://github.com/BangOzil/Ozil
 
-cd Ozil-Gojek
+cd ozil
 
-php shot.php
+php bangozil.php
