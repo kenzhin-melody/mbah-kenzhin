@@ -5,8 +5,8 @@ echo color("green"," =================================== \n");
 echo color("green"," Claim Voucher \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
-echo " Created by : BANG OZIL \n";
-echo " Version    : TAHUN 2020 \n";
+echo " Author  by : BANG OZIL \n";
+echo " Update     : TAHUN 2020 \n";
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
 
