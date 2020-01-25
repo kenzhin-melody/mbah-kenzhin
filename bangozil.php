@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("green"," Claim Voucher \n");
+echo color("green"," Join Group https://t.me/joinchat/OBFA3VfcGF_RkAvTUxG1uQ \n");
 echo color("green"," 🄰🅄🅃🄾 🅁🄴🄶🄸🅂🅃 🄶🄾🄹🄴🄺 & 🅁🄴🄳🄴🄴🄼 🅅🄾🅄🄲🄷🄴🅁 \n");
 echo color("green"," =================================== \n");
 echo " Author     : 🇧 🇦 🇳 🇬  🇴 🇿 🇮 🇱  \n";
