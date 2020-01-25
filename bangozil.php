@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
 echo color("green"," Claim Voucher \n");
-echo color("green"," 🅐🅤🅣🅞 🅒🅡🅔🅐🅣🅔 & 🅡🅔🅓🅔🅔🅜 🅥🅞🅤🅒🅗🅔🅡 \n");
+echo color("green"," 🄰🅄🅃🄾 🅁🄴🄶🄸🅂🅃 🄶🄾🄹🄴🄺 & 🅁🄴🄳🄴🄴🄼 🅅🄾🅄🄲🄷🄴🅁 \n");
 echo color("green"," =================================== \n");
 echo " Author     : 🇧 🇦 🇳 🇬  🇴 🇿 🇮 🇱  \n";
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
@@ -69,7 +69,7 @@ echo color("green"," =================================== \n");
 				}else{
 					echo "\n".color("red","-] Message: ".$message);
 					
-					echo "\n".color("yellow","!] Claim Voc PESENGOFOOD");
+					echo "\n".color("yellow","!] Claim Voc AYOCOBAINGOJEK");
 					echo "\n".color("yellow","!] Please wait...");
 					for($a=1;$a<=3;$a++){
 						echo color("yellow",".");
@@ -85,7 +85,7 @@ echo color("green"," =================================== \n");
 						echo "\n".color("red","-] Message: ".$messageboba10);
 					}
 					goride:
-					echo "\n".color("yellow","!] Claim Voc AYOCOBAGOJEK");
+					echo "\n".color("yellow","!] Claim Voc GOPAYFATCHAIXXI");
 					echo "\n".color("yellow","!] Please wait...");
 					for($a=1;$a<=3;$a++){
 						echo color("yellow",".");
@@ -96,7 +96,7 @@ echo color("green"," =================================== \n");
 					$message1 = fetch_value($goride,'"message":"','"');
 					echo "\n".color("green","+] Message: ".$message1);
 							
-					echo "\n".color("yellow","!] Claim Voc COBAINGOJEK");
+					echo "\n".color("yellow","!] Claim Voc YUKGOFOOD");
 					echo "\n".color("yellow","!] Please wait...");
 					for($a=1;$a<=3;$a++){
 						echo color("yellow",".");
