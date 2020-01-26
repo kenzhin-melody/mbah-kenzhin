@@ -3,13 +3,10 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
 echo color("red"," BACA BISMILLAH SEBELUM MEMULAI AKTIFITAS \n");
-
 echo color("green"," AUTO REGIST GOJEK & CLAIM VOUCHER \n");
 echo color("green"," =============================================== n");
 echo color("red",  B  A  N  G  O  Z  I  L  \n");
-
 echo color("red"," BACA HAMDALLAH SETELAH SELESAI AKTIFITAS \n");
-
 echo color("green"," =============================================== \n");
 
 //	function change(){
