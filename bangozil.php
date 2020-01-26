@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("green"," BACA BISMILALLAH BIAR BERKAH \n");
+echo color("green"," BACA BISMILLAH BIAR BERKAH \n");
 echo color("green"," Auto Regist & Redeem Voucher \n");
 echo color("green"," =================================== \n");
 echo " AUTHOR     : B  A  N  G  O  Z  I  L \n";
