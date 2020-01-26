@@ -53,8 +53,6 @@ echo color("green"," =================================== \n");
 				$uuid = getStr('"resource_owner_id":',',',$verif);
 				echo color("green","+] Your access token : ".$token."\n\n");
 				save("token.txt",$token);
-				
-				echo color("green","\n===========(REDEEM VOUCHER)===========");
 		
 					$cekvoucher = request('/gopoints/v5/wallet/vouchers?limit=20&page=1', $token);
 					$total = fetch_value($cekvoucher,'"total_vouchers":',',');
