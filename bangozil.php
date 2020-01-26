@@ -5,7 +5,7 @@ echo color("green"," =================================== \n");
 echo color("red"," BACA BISMILLAH SEBELUM MEMULAI AKTIFITAS \n");
 echo color("green"," AUTO REGIST GOJEK & CLAIM VOUCHER \n");
 echo color("green"," =================================== \n");
-echo " Author     : 🇧 🇦 🇳 🇬  🇴 🇿 🇮 🇱  \n";
+echo " Author     : B  A  N  G  O  Z  I  L  \n";
 echo " TIME       : ".date('d-m-Y||H:i:s')." \n";
 echo color("red"," BACA HAMDALLAH SETELAH SELESAI AKTIFITAS \n");
 echo color("green"," =================================== \n");
