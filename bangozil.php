@@ -2,10 +2,11 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("red"," BACA BISMILLAH BIAR BERKAHr \n");
+echo color("red"," BACA BISMILLAH BIAR BERKAH \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
-echo " B  A  N  G   O  Z  I  L \n";
+echo "   B     A      N      G      O      Z     I     L \n";
+
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
 
