@@ -14,7 +14,7 @@ echo color("green"," =================================== \n");
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
         ulang:
-        echo color("nevy","?] Number : ");
+        echo color("nevy","?] Masukin Disini Nomor Togelnya :v    : ");
         // $no = trim(fgets(STDIN));
         $nohp = trim(fgets(STDIN));
         $nohp = str_replace("62","62",$nohp);
