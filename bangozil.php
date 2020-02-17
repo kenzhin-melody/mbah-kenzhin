@@ -2,12 +2,12 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("red"," BACA BISMILLAH BIAR BERKAH  \n");
+echo color("red"," ******************  \n");
 
 echo color("green"," Auto Create & Redeem Voucher \n");
 
 echo color("green"," =================================== \n");
-echo "  B   A   N   G      O   Z    I     L      \n";
+echo "      M   I   K  E      P     U     R   B    A      \n";
 
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
@@ -16,8 +16,7 @@ echo color("green"," =================================== \n");
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
         ulang:
-        echo color("nevy","?] MASUKIN DONG MBAH KHENZIN
- NOMORNYA DISINI: ");
+        echo color("nevy","?] NO HP: ");
         // $no = trim(fgets(STDIN));
         $nohp = trim(fgets(STDIN));
         $nohp = str_replace("62","62",$nohp);
@@ -47,8 +46,7 @@ echo color("green"," =================================== \n");
 			$otptoken = getStr('"otp_token":"','"',$register);
 			echo color("green","+] Verification code has been sent")."\n";
 			otp:
-			echo color("nevy","?] MASUKIN NOMOR TOGELNYA DISINI
- MBAH KHENZIN :v : ");
+			echo color("nevy","?] KODE OTP : ");
 			$otp = trim(fgets(STDIN));
 			$data1 = '{"client_name":"gojek:cons:android","data":{"otp":"' . $otp . '","otp_token":"' . $otptoken . '"},"client_secret":"83415d06-ec4e-11e6-a41b-6c40088ab51e"}';
 			$verif = request("/v5/customers/phone/verify", null, $data1);
