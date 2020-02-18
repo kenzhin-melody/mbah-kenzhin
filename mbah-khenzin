@@ -10,8 +10,6 @@ echo color("green"," Auto Create & Redeem Voucher \n");
 echo color("green"," =================================== \n");
 
 echo "       MBAH KHENZIN      \n";
-
-
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 
 echo color("green"," =================================== \n");
