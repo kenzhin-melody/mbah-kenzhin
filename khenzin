@@ -3,13 +3,12 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
 echo color("red","      
-GOJEK AUTO REGIST TERBARU 2020  \n");
+AUTO REGIST GOJEK  \n");
 
 echo color("green"," Auto Create & Redeem Voucher \n");
+
 echo color("green"," =================================== \n");
-
-echo "       MBAH KHENZIN      \n";
-
+echo "      M  B  A  H  KHENZIN      \n";
 
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
