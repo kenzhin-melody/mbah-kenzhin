@@ -2,7 +2,8 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("green"," =================================== \n");
-echo color("red"," JOIN MEMBER BEBAS JUALAN  \n");
+echo color("red","      JOIN MEMBER BEBAS JUALAN 
+https://t.me/joinchat/OBFA3VfcGF_dfT5YVhRdGQ \n");
 
 echo color("green"," Auto Create & Redeem Voucher \n");
 
