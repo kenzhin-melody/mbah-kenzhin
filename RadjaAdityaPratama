@@ -8,7 +8,9 @@ GOJEK AUTO REGIST TERBARU 2020  \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 
 echo color("green"," =================================== \n");
-echo "               RADJA ADITYA PRATAMA      \n";
+
+echo "       RADJA ADITYA PRATAMA      \n";
+
 
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
