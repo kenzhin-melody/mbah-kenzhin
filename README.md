@@ -8,8 +8,8 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/BangOzil/Ozil
+git clone https://github.com/kenzhin-melody
 
-cd Ozil
+cd kenzhin
 
-php bangozil.php
+php kenzhin.php
