@@ -7,7 +7,7 @@ echo color("red"," *************************************  \n");
 echo color("green"," Auto Create & Redeem Voucher \n");
 
 echo color("green"," =================================== \n");
-echo "   M B A H   O Z I L   \n";
+echo "   M B A H     O Z I L   \n";
 
 echo " Time       : ".date('d-m-Y||H:i:s')." \n";
 echo color("green"," =================================== \n");
